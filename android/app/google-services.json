@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "701986513930",
+    "project_id": "ghatiyahaiye",
+    "storage_bucket": "ghatiyahaiye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701986513930:android:7869c763951edbf1f9abf3",
+        "android_client_info": {
+          "package_name": "com.example.backendtrial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPXIcl72ghePLRQ6GL-SuhNspFRyLV6WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701986513930:android:daaaf3247186c8a4f9abf3",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPXIcl72ghePLRQ6GL-SuhNspFRyLV6WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
